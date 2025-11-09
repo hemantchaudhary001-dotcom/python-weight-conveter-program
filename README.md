@@ -22,7 +22,9 @@ python weight_converter.py
 📦 Example
 
 Enter your weight: 70
+
 Enter your unit (kg or lb): kg
+
 Your weight is: 154.4 lbs.
 
 
