@@ -14,11 +14,13 @@ This is a simple command-line Python program that converts weight between kilogr
 - Save the script as weight_converter.py.
 - Open your terminal or command prompt.
 - Run the script:
+  
 python weight_converter.py
 - Follow the prompts to enter your weight and unit.
 
   
 📦 Example
+
 Enter your weight: 70
 Enter your unit (kg or lb): kg
 Your weight is: 154.4 lbs.
